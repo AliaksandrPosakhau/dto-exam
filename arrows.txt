@@ -1,6 +1,9 @@
 git commit git commit 
 git commit commit indeed
 
+you commit me commit 
+all commmited into git
+
 one thousand burning arrows 
 fills the starlit sky
 
