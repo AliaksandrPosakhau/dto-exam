@@ -4,6 +4,9 @@ git commit commit indeed
 you commit me commit 
 all commmited into git
 
+Pete commit is just commit
+Jane commit not mine commit
+
 one thousand burning arrows 
 fills the starlit sky
 
